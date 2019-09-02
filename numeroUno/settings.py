@@ -25,7 +25,7 @@ print("to jest to wyzej")
 SECRET_KEY = 'noqhf7hq(!9^92$)thr09nx*&*60n8*n8n^+64%4$t79i59s-t'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
